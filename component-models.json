@@ -1858,7 +1858,7 @@
           },
           {
             "component": "text",
-            "name": "minItemsMessage",
+            "name": "minItemsErrorMessage",
             "label": "Minimum files error message",
             "valueType": "string",
             "condition": {
@@ -1886,7 +1886,7 @@
           },
           {
             "component": "text",
-            "name": "maxItemsMessage",
+            "name": "maxItemsErrorMessage",
             "label": "Maximum files error message",
             "valueType": "string",
             "condition": {
